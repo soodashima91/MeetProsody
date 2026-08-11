@@ -28,7 +28,3 @@ Speech LLMs can summarise meetings directly from audio, and are often assumed to
   year      = {2026}
 }
 ```
-
-## License
-
-Code released under the MIT License (see `LICENSE`). Chart.js is bundled under its own MIT license. The paper PDF is the authors' work.
